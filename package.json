@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmedalam98/Forkify.git"
+    "url": "git+https://github.com/AyushUniyal2003/Java_Script_Project_Forkify.git"
   },
-  "author": "Ahmed Alam El-Deen",
+  "author": "Ayush Uniyal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahmedalam98/Forkify/issues"
+    "url": "https://github.com/AyushUniyal2003/Java_Script_Project_Forkify/issues"
   },
-  "homepage": "https://github.com/ahmedalam98/Forkify#readme",
+  "homepage": "https://github.com/AyushUniyal2003/Java_Script_Project_Forkify#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
